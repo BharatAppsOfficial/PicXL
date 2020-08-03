@@ -41,3 +41,16 @@ Third party
 Consent
 
 A "consent" of the data subject is any information voluntarily given for the particular case, wise and unequivocal statements of intent in the form of a statement or other clear affirmative act by which the person concerned indicates that he or she agrees with the processing of personal data concerning him- or herself.
+
+
+Legality of processing
+
+The processing of personal data is only legal if there is a legal basis for processing. The legal basis for the processing may, in accordance with Article 6 (1) lit. a – f GDPR be, in particular:
+
+    The data subject has given his/her consent to the processing of the personal data for one or more specific purposes;
+    processing is required for the fulfillment of a contract to which the data subject is a party, or required to carry out pre-contractual action, respectively at the request of the data subject;
+    the processing is necessary to fulfill a legal obligation that the person responsible is subject to;
+    the processing is necessary to protect vital interests of the person concerned or to protect another natural person;
+    the processing is necessary for the performance of a task of public interest or takes place in the exercise of public authority delegated to the person responsible;
+    the processing is necessary for the protection of the legitimate interests of the person responsible or a third party, unless the interests or fundamental rights and freedoms of the data subject, which require the protection of personal data, outweigh these interests, especially if the person concerned is a child.
+    
