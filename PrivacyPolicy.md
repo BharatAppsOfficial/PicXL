@@ -62,7 +62,13 @@ PicXL software requires some permissions to function effectively and efficiently
     camera
     location
     storage
-    telephone 
+    telephone
+    bluetooth
+    audio
+    calender
+    audio recorder
+    internet
+    wifi
 The main permission required to get Bhejo functioning is the storage permission, the rest permission are sometimes required to perform some operations but they are optional and can be enabled and disabled anytime at will when not in use.
 
 PicXL have some other capabilities which are functions the software can remotely effect on its own.
