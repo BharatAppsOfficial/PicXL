@@ -62,7 +62,8 @@ PicXL software requires some permissions to function effectively and efficiently
     camera
     location
     storage
-    telephone The main permission required to get Bhejo functioning is the storage permission, the rest permission are sometimes required to perform some operations but they are optional and can be enabled and disabled anytime at will when not in use.
+    telephone 
+The main permission required to get Bhejo functioning is the storage permission, the rest permission are sometimes required to perform some operations but they are optional and can be enabled and disabled anytime at will when not in use.
 
 PicXL have some other capabilities which are functions the software can remotely effect on its own.
 
@@ -90,7 +91,7 @@ PicXL is stable and works fine but you may still experience few errors and crash
 
 # Service Providers
 
-Bhejo is dependent upon the services of third-party libraries to facilitate its utilization and to perform service-related services or to assist in analyzing how the services of the software are used. These third parties have access to your Personal Data only to perform these tasks on the developer's behalf and are obligated not to disclose or use it for any other purpose.
+PicXL is dependent upon the services of third-party libraries to facilitate its utilization and to perform service-related services or to assist in analyzing how the services of the software are used. These third parties have access to your Personal Data only to perform these tasks on the developer's behalf and are obligated not to disclose or use it for any other purpose.
 
 # Transfer Of Data
 
